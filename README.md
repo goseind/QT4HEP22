@@ -22,7 +22,7 @@ pip3 install numpy
 pip3 install pennylane
 ```
 
-## Company Workshop Materials
+## Company Workshop Materials + interesting Links to more Information
 
 * [IBM Qiskit](workshop/ibm) (Repo Folder)
   * [IBMQ Cloud](https://quantum-computing.ibm.com/)
