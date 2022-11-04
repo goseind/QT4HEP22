@@ -41,7 +41,3 @@ pip3 install pennylane
   * [About Xanadu](https://www.xanadu.ai/about)
   * [PennyLane YouTube Tutorials Playlist](https://youtube.com/playlist?list=PL_hJxz_HrXxsY23iiLZTxiPctXKYI6tNV)
   * [Code Camp Xanadu](https://codecamp.xanadu.ai/)
-
-## Key Takeaways
-
-tbd
